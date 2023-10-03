@@ -3,6 +3,7 @@ Día 20/09/23: -Antonio: Ha dejado más o menos terminada la 1ª parte de práct
 			la 2º parte de la práctica
 Día 22/09/23: -Antonio: Ha creado el GitHub, añadidos todos los archivos correspondientes, y ha finalizado el resto
 			de partes de la práctica.
+Día 03/10/23: Seguimos en la busqueda del algoritmo.
 
 NOTA:	Tanto la bitacora como el gitHub se han realizado durante el periodo final del desarrollo de la práctica
 	debido a que desconocía completamente que ambos eran necesarios para esta última. Esto se debe a que, 
