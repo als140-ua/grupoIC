@@ -1,8 +1,11 @@
-Día 19/09/23: 	-Antonio: Ha comenzado y dejado medio terminada la 1ª parte de la práctica 1
-Día 20/09/23: 	-Antonio: Ha dejado más o menos terminada la 1ª parte de práctica y ha comenzado con 
+------- Inicio práctica 1 --------
+Día 19/09/23: 	- Antonio: Ha comenzado y dejado medio terminada la 1ª parte de la práctica 1
+Día 20/09/23: 	- Antonio: Ha dejado más o menos terminada la 1ª parte de práctica y ha comenzado con 
 			la 2º parte de la práctica 1
-Día 22/09/23: 	-Antonio: Ha creado el GitHub, añadidos todos los archivos correspondientes, y ha finalizado el resto
+Día 22/09/23: 	- Antonio: Ha creado el GitHub, añadidos todos los archivos correspondientes, y ha finalizado el resto
 			de partes de la práctica 1.
+
+------- Inicio práctica 2 -------
 Día 03/10/23: 	Seguimos en la busqueda del algoritmo.
 Día 06/10/23: 	Trás buscar diferentes aplicaciones de Sobel y evaluarlo detenidamente hemos decidido optar por 
 		hacer uso de Sobel para imagenes de alta resolucion (por ejemplo: 5000x5000px)
