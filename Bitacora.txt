@@ -4,6 +4,7 @@ Día 20/09/23: 	- Antonio: Ha dejado más o menos terminada la 1ª parte de prá
 			la 2º parte de la práctica 1
 Día 22/09/23: 	- Antonio: Ha creado el GitHub, añadidos todos los archivos correspondientes, y ha finalizado el resto
 			de partes de la práctica 1.
+Nota: Durante la duración de la práctica 2 el grupo estuvo formado solo por Antonio
 
 ------- Inicio práctica 2 -------
 Día 03/10/23: 	Seguimos en la busqueda del algoritmo.
