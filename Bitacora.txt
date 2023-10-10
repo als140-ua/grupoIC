@@ -11,7 +11,7 @@ Día 03/10/23: 	Seguimos en la busqueda del algoritmo.
 Día 06/10/23: 	Trás buscar diferentes aplicaciones de Sobel y evaluarlo detenidamente hemos decidido optar por 
 		hacer uso de Sobel para imagenes de alta resolucion (por ejemplo: 5000x5000px)
 Día 10/10/23:	Asignación de tareas.
-		- Judith: Describir con detalle el algoritmo y defender como este se puyude paralelizar
+		- Judit: Describir con detalle el algoritmo y defender como este se puyude paralelizar
 		- Antonio: Reazlizar el gráfo de dependencias y decir que parte de este puede ser paralelo
 		- Aitor: Estudiar las variables utilizadas y la estructura de flujo de programa además de tratar de
 		prever algún problema de la cache
