@@ -18,3 +18,5 @@ Día 10/10/23:	Asignación de tareas.
 Día 17/10/23: 	-Antonio: Ha proseguido con la tarea 2.1
 		-Aitor: ha terminado la tarea 2.2 y la tarea 2.3 la ha medio terminado.
 		-Judit: Ha realizado la introducción de la tarea  y ha tratado de compilar la práctica.
+Día 19/10/23:	Se ha terminado con las tareas 2.1, 2.2, 2.3 y 4 de la práctica 2
+
