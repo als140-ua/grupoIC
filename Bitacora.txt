@@ -8,18 +8,32 @@ Nota: Durante la duración de la práctica 2 el grupo estuvo formado solo por An
 
 ------- Inicio práctica 2 -------
 Día 03/10/23: 	Seguimos en la busqueda del algoritmo.
+
 Día 06/10/23: 	Trás buscar diferentes aplicaciones de Sobel y evaluarlo detenidamente hemos decidido optar por 
 		hacer uso de Sobel para imagenes de alta resolucion (por ejemplo: 5000x5000px)
+
 Día 10/10/23:	Asignación de tareas.
 		- Judit: Describir con detalle el algoritmo y defender como este se puyude paralelizar
 		- Antonio: Reazlizar el gráfo de dependencias y decir que parte de este puede ser paralelo
 		- Aitor: Estudiar las variables utilizadas y la estructura de flujo de programa además de tratar de
 		prever algún problema de la cache
+
 Día 17/10/23: 	-Antonio: Ha proseguido con la tarea 2.1
 		-Aitor: ha terminado la tarea 2.2 y la tarea 2.3 la ha medio terminado.
 		-Judit: Ha realizado la introducción de la tarea  y ha tratado de compilar la práctica.
+
 Día 19/10/23:	Se ha terminado con las tareas 2.1, 2.2, 2.3 y 4 de la práctica 2.
 		-Antonio: Estudio del código con tal de ver que partes se pueden paralelizar y finalización de la tarea 2.1
 		-Aitor: Finaliazción de la tarea 2.2 y la 4
 		-Judit: Ejecución y configuración del programa y finalización de la tarea 2.3
+
+Día 20/10/23:	-Judit: Finalización de la tarea 2.4
+		-Antonio: Asistencia en la realización de la tarea 2.4 e inicio de la tarea 2.5
+		-Aitor: Asistencia en la realización de las tareas 2.4 y 2.5
+
+Día 21/10/23:	-Judit: Creación del makefile de la práctica y realización del ejercicio 2.6
+		-Aitor: Investigación sobre las opciones de optimización de gcc en mayor profundidad y asistencia en la realización de la tarea 2.5
+		-Antonio: Finalización de la tarea 2.5 
+
+Día 22/10/23:	-Aitor: Revisión y corrección de las tareas realizadas
 
