@@ -36,4 +36,5 @@ Día 21/10/23:	-Judit: Creación del makefile de la práctica y realización del
 		-Antonio: Finalización de la tarea 2.5 
 
 Día 22/10/23:	-Aitor: Revisión y corrección de las tareas realizadas
-
+		-Judit: Arreglos rápidos en el programa para poder entregarlo vía UACloud (debido a l tamaño maxímo de archivos permitido)
+		-Antonio: Escritura y actualización de la bitacora
