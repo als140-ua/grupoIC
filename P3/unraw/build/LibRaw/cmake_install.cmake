@@ -1,4 +1,4 @@
-# Install script for directory: /home/judit/source/unraw/LibRaw
+# Install script for directory: /home/judit/grupoIC/P3/unraw/LibRaw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

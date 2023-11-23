@@ -6,5 +6,5 @@ CXX_FLAGS =  -fopenmp -fPIC   -fopenmp -std=gnu++17
 
 CXX_DEFINES = -DLIBRAW_NOTHREADS -DUSE_JPEG -DUSE_JPEG8 -DUSE_LCMS2 -DUSE_ZLIB -Draw_EXPORTS
 
-CXX_INCLUDES = -I/home/judit/source/unraw/build/LibRaw -I/home/judit/source/unraw/LibRaw -I/usr/include/opencv4 
+CXX_INCLUDES = -I/home/judit/grupoIC/P3/unraw/build/LibRaw -I/home/judit/grupoIC/P3/unraw/LibRaw -I/usr/include/opencv4 
 

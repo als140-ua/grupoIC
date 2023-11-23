@@ -100,7 +100,7 @@ libraw_version.h
 
 ../LibRaw/libraw/libraw_version.h
 
-/home/judit/source/unraw/main.cc
+/home/judit/grupoIC/P3/unraw/main.cc
 stdio.h
 -
 string.h
@@ -112,11 +112,11 @@ iostream
 chrono
 -
 libraw/libraw.h
-/home/judit/source/unraw/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/libraw/libraw.h
 opencv2/highgui.hpp
-/home/judit/source/unraw/opencv2/highgui.hpp
+/home/judit/grupoIC/P3/unraw/opencv2/highgui.hpp
 opencv2/imgproc.hpp
-/home/judit/source/unraw/opencv2/imgproc.hpp
+/home/judit/grupoIC/P3/unraw/opencv2/imgproc.hpp
 algorithm
 -
 future

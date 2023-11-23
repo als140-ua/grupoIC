@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/judit/source/unraw
+CMAKE_SOURCE_DIR = /home/judit/grupoIC/P3/unraw
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/judit/source/unraw/build
+CMAKE_BINARY_DIR = /home/judit/grupoIC/P3/unraw/build
 
 # Include any dependencies generated for this target.
 include LibRaw/CMakeFiles/raw.dir/depend.make
@@ -59,978 +59,978 @@ include LibRaw/CMakeFiles/raw.dir/flags.make
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o: ../LibRaw/src/decoders/canon_600.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/canon_600.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/canon_600.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/canon_600.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/canon_600.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/canon_600.cpp > CMakeFiles/raw.dir/src/decoders/canon_600.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/canon_600.cpp > CMakeFiles/raw.dir/src/decoders/canon_600.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/canon_600.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/canon_600.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/canon_600.cpp -o CMakeFiles/raw.dir/src/decoders/canon_600.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/canon_600.cpp -o CMakeFiles/raw.dir/src/decoders/canon_600.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.o: ../LibRaw/src/decoders/crx.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/crx.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/crx.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/crx.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/crx.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/crx.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/crx.cpp > CMakeFiles/raw.dir/src/decoders/crx.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/crx.cpp > CMakeFiles/raw.dir/src/decoders/crx.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/crx.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/crx.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/crx.cpp -o CMakeFiles/raw.dir/src/decoders/crx.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/crx.cpp -o CMakeFiles/raw.dir/src/decoders/crx.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o: ../LibRaw/src/decoders/decoders_dcraw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/decoders_dcraw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_dcraw.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/decoders_dcraw.cpp > CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_dcraw.cpp > CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/decoders_dcraw.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_dcraw.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_dcraw.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o: ../LibRaw/src/decoders/decoders_libraw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw.cpp > CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw.cpp > CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_libraw.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o: ../LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp > CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp > CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp -o CMakeFiles/raw.dir/src/decoders/decoders_libraw_dcrdefs.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.o: ../LibRaw/src/decoders/dng.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/dng.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/dng.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/dng.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/dng.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/dng.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/dng.cpp > CMakeFiles/raw.dir/src/decoders/dng.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/dng.cpp > CMakeFiles/raw.dir/src/decoders/dng.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/dng.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/dng.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/dng.cpp -o CMakeFiles/raw.dir/src/decoders/dng.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/dng.cpp -o CMakeFiles/raw.dir/src/decoders/dng.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o: ../LibRaw/src/decoders/fp_dng.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/fp_dng.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fp_dng.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/fp_dng.cpp > CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fp_dng.cpp > CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/fp_dng.cpp -o CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fp_dng.cpp -o CMakeFiles/raw.dir/src/decoders/fp_dng.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o: ../LibRaw/src/decoders/fuji_compressed.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/fuji_compressed.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fuji_compressed.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/fuji_compressed.cpp > CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fuji_compressed.cpp > CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/fuji_compressed.cpp -o CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fuji_compressed.cpp -o CMakeFiles/raw.dir/src/decoders/fuji_compressed.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.o: ../LibRaw/src/decoders/generic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/generic.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/generic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/generic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/generic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/generic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/generic.cpp > CMakeFiles/raw.dir/src/decoders/generic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/generic.cpp > CMakeFiles/raw.dir/src/decoders/generic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/generic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/generic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/generic.cpp -o CMakeFiles/raw.dir/src/decoders/generic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/generic.cpp -o CMakeFiles/raw.dir/src/decoders/generic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o: ../LibRaw/src/decoders/kodak_decoders.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/kodak_decoders.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/kodak_decoders.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/kodak_decoders.cpp > CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/kodak_decoders.cpp > CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/kodak_decoders.cpp -o CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/kodak_decoders.cpp -o CMakeFiles/raw.dir/src/decoders/kodak_decoders.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o: ../LibRaw/src/decoders/load_mfbacks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/load_mfbacks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/load_mfbacks.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/load_mfbacks.cpp > CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/load_mfbacks.cpp > CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/load_mfbacks.cpp -o CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/load_mfbacks.cpp -o CMakeFiles/raw.dir/src/decoders/load_mfbacks.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.o: ../LibRaw/src/decoders/smal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/smal.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/smal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/smal.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/smal.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/smal.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/smal.cpp > CMakeFiles/raw.dir/src/decoders/smal.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/smal.cpp > CMakeFiles/raw.dir/src/decoders/smal.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/smal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/smal.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/smal.cpp -o CMakeFiles/raw.dir/src/decoders/smal.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/smal.cpp -o CMakeFiles/raw.dir/src/decoders/smal.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.o: ../LibRaw/src/decoders/unpack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/unpack.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/unpack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/unpack.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/unpack.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/unpack.cpp > CMakeFiles/raw.dir/src/decoders/unpack.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack.cpp > CMakeFiles/raw.dir/src/decoders/unpack.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/unpack.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/unpack.cpp -o CMakeFiles/raw.dir/src/decoders/unpack.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack.cpp -o CMakeFiles/raw.dir/src/decoders/unpack.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o: ../LibRaw/src/decoders/unpack_thumb.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o -c /home/judit/source/unraw/LibRaw/src/decoders/unpack_thumb.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack_thumb.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/decoders/unpack_thumb.cpp > CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack_thumb.cpp > CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/decoders/unpack_thumb.cpp -o CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack_thumb.cpp -o CMakeFiles/raw.dir/src/decoders/unpack_thumb.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o: ../LibRaw/src/demosaic/aahd_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/aahd_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o: ../LibRaw/src/demosaic/ahd_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/ahd_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o: ../LibRaw/src/demosaic/dcb_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/dcb_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o: ../LibRaw/src/demosaic/dht_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/dht_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dht_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/dht_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dht_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/dht_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dht_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/dht_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o: ../LibRaw/src/demosaic/misc_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/misc_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/misc_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/misc_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/misc_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/misc_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/misc_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/misc_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o: ../LibRaw/src/demosaic/xtrans_demosaic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o -c /home/judit/source/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp > CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp -o CMakeFiles/raw.dir/src/demosaic/xtrans_demosaic.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o: ../LibRaw/src/integration/dngsdk_glue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o -c /home/judit/source/unraw/LibRaw/src/integration/dngsdk_glue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/dngsdk_glue.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/integration/dngsdk_glue.cpp > CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/dngsdk_glue.cpp > CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/integration/dngsdk_glue.cpp -o CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/dngsdk_glue.cpp -o CMakeFiles/raw.dir/src/integration/dngsdk_glue.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o: ../LibRaw/src/integration/rawspeed_glue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o -c /home/judit/source/unraw/LibRaw/src/integration/rawspeed_glue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/rawspeed_glue.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/integration/rawspeed_glue.cpp > CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/rawspeed_glue.cpp > CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/integration/rawspeed_glue.cpp -o CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/integration/rawspeed_glue.cpp -o CMakeFiles/raw.dir/src/integration/rawspeed_glue.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.o: ../LibRaw/src/libraw_c_api.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/libraw_c_api.cpp.o -c /home/judit/source/unraw/LibRaw/src/libraw_c_api.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/libraw_c_api.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_c_api.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/libraw_c_api.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/libraw_c_api.cpp > CMakeFiles/raw.dir/src/libraw_c_api.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_c_api.cpp > CMakeFiles/raw.dir/src/libraw_c_api.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_c_api.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/libraw_c_api.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/libraw_c_api.cpp -o CMakeFiles/raw.dir/src/libraw_c_api.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_c_api.cpp -o CMakeFiles/raw.dir/src/libraw_c_api.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.o: ../LibRaw/src/libraw_datastream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/libraw_datastream.cpp.o -c /home/judit/source/unraw/LibRaw/src/libraw_datastream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/libraw_datastream.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_datastream.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/libraw_datastream.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/libraw_datastream.cpp > CMakeFiles/raw.dir/src/libraw_datastream.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_datastream.cpp > CMakeFiles/raw.dir/src/libraw_datastream.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/libraw_datastream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/libraw_datastream.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/libraw_datastream.cpp -o CMakeFiles/raw.dir/src/libraw_datastream.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_datastream.cpp -o CMakeFiles/raw.dir/src/libraw_datastream.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o: ../LibRaw/src/metadata/adobepano.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/adobepano.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/adobepano.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/adobepano.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/adobepano.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/adobepano.cpp > CMakeFiles/raw.dir/src/metadata/adobepano.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/adobepano.cpp > CMakeFiles/raw.dir/src/metadata/adobepano.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/adobepano.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/adobepano.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/adobepano.cpp -o CMakeFiles/raw.dir/src/metadata/adobepano.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/adobepano.cpp -o CMakeFiles/raw.dir/src/metadata/adobepano.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.o: ../LibRaw/src/metadata/canon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/canon.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/canon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/canon.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/canon.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/canon.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/canon.cpp > CMakeFiles/raw.dir/src/metadata/canon.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/canon.cpp > CMakeFiles/raw.dir/src/metadata/canon.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/canon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/canon.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/canon.cpp -o CMakeFiles/raw.dir/src/metadata/canon.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/canon.cpp -o CMakeFiles/raw.dir/src/metadata/canon.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.o: ../LibRaw/src/metadata/ciff.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/ciff.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/ciff.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/ciff.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/ciff.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/ciff.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/ciff.cpp > CMakeFiles/raw.dir/src/metadata/ciff.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/ciff.cpp > CMakeFiles/raw.dir/src/metadata/ciff.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/ciff.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/ciff.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/ciff.cpp -o CMakeFiles/raw.dir/src/metadata/ciff.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/ciff.cpp -o CMakeFiles/raw.dir/src/metadata/ciff.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o: ../LibRaw/src/metadata/cr3_parser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/cr3_parser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/cr3_parser.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/cr3_parser.cpp > CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/cr3_parser.cpp > CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/cr3_parser.cpp -o CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/cr3_parser.cpp -o CMakeFiles/raw.dir/src/metadata/cr3_parser.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.o: ../LibRaw/src/metadata/epson.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/epson.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/epson.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/epson.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/epson.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/epson.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/epson.cpp > CMakeFiles/raw.dir/src/metadata/epson.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/epson.cpp > CMakeFiles/raw.dir/src/metadata/epson.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/epson.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/epson.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/epson.cpp -o CMakeFiles/raw.dir/src/metadata/epson.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/epson.cpp -o CMakeFiles/raw.dir/src/metadata/epson.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o: ../LibRaw/src/metadata/exif_gps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/exif_gps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/exif_gps.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/exif_gps.cpp > CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/exif_gps.cpp > CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/exif_gps.cpp -o CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/exif_gps.cpp -o CMakeFiles/raw.dir/src/metadata/exif_gps.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.o: ../LibRaw/src/metadata/fuji.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/fuji.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/fuji.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/fuji.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/fuji.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/fuji.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/fuji.cpp > CMakeFiles/raw.dir/src/metadata/fuji.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/fuji.cpp > CMakeFiles/raw.dir/src/metadata/fuji.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/fuji.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/fuji.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/fuji.cpp -o CMakeFiles/raw.dir/src/metadata/fuji.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/fuji.cpp -o CMakeFiles/raw.dir/src/metadata/fuji.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o: ../LibRaw/src/metadata/hasselblad_model.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/hasselblad_model.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/hasselblad_model.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/hasselblad_model.cpp > CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/hasselblad_model.cpp > CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/hasselblad_model.cpp -o CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/hasselblad_model.cpp -o CMakeFiles/raw.dir/src/metadata/hasselblad_model.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.o: ../LibRaw/src/metadata/identify.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/identify.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/identify.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/identify.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/identify.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/identify.cpp > CMakeFiles/raw.dir/src/metadata/identify.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify.cpp > CMakeFiles/raw.dir/src/metadata/identify.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/identify.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/identify.cpp -o CMakeFiles/raw.dir/src/metadata/identify.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify.cpp -o CMakeFiles/raw.dir/src/metadata/identify.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o: ../LibRaw/src/metadata/identify_tools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/identify_tools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify_tools.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/identify_tools.cpp > CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify_tools.cpp > CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/identify_tools.cpp -o CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify_tools.cpp -o CMakeFiles/raw.dir/src/metadata/identify_tools.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.o: ../LibRaw/src/metadata/kodak.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/kodak.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/kodak.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/kodak.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/kodak.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/kodak.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/kodak.cpp > CMakeFiles/raw.dir/src/metadata/kodak.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/kodak.cpp > CMakeFiles/raw.dir/src/metadata/kodak.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/kodak.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/kodak.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/kodak.cpp -o CMakeFiles/raw.dir/src/metadata/kodak.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/kodak.cpp -o CMakeFiles/raw.dir/src/metadata/kodak.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.o: ../LibRaw/src/metadata/leica.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/leica.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/leica.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/leica.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/leica.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/leica.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/leica.cpp > CMakeFiles/raw.dir/src/metadata/leica.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/leica.cpp > CMakeFiles/raw.dir/src/metadata/leica.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/leica.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/leica.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/leica.cpp -o CMakeFiles/raw.dir/src/metadata/leica.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/leica.cpp -o CMakeFiles/raw.dir/src/metadata/leica.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o: ../LibRaw/src/metadata/makernotes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/makernotes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/makernotes.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/makernotes.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/makernotes.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/makernotes.cpp > CMakeFiles/raw.dir/src/metadata/makernotes.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/makernotes.cpp > CMakeFiles/raw.dir/src/metadata/makernotes.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/makernotes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/makernotes.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/makernotes.cpp -o CMakeFiles/raw.dir/src/metadata/makernotes.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/makernotes.cpp -o CMakeFiles/raw.dir/src/metadata/makernotes.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o: ../LibRaw/src/metadata/mediumformat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/mediumformat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/mediumformat.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/mediumformat.cpp > CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/mediumformat.cpp > CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/mediumformat.cpp -o CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/mediumformat.cpp -o CMakeFiles/raw.dir/src/metadata/mediumformat.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.o: ../LibRaw/src/metadata/minolta.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/minolta.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/minolta.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/minolta.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/minolta.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/minolta.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/minolta.cpp > CMakeFiles/raw.dir/src/metadata/minolta.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/minolta.cpp > CMakeFiles/raw.dir/src/metadata/minolta.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/minolta.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/minolta.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/minolta.cpp -o CMakeFiles/raw.dir/src/metadata/minolta.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/minolta.cpp -o CMakeFiles/raw.dir/src/metadata/minolta.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o: ../LibRaw/src/metadata/misc_parsers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/misc_parsers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/misc_parsers.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/misc_parsers.cpp > CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/misc_parsers.cpp > CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/misc_parsers.cpp -o CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/misc_parsers.cpp -o CMakeFiles/raw.dir/src/metadata/misc_parsers.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.o: ../LibRaw/src/metadata/nikon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/nikon.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/nikon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/nikon.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/nikon.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/nikon.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/nikon.cpp > CMakeFiles/raw.dir/src/metadata/nikon.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/nikon.cpp > CMakeFiles/raw.dir/src/metadata/nikon.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/nikon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/nikon.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/nikon.cpp -o CMakeFiles/raw.dir/src/metadata/nikon.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/nikon.cpp -o CMakeFiles/raw.dir/src/metadata/nikon.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o: ../LibRaw/src/metadata/normalize_model.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/normalize_model.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/normalize_model.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/normalize_model.cpp > CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/normalize_model.cpp > CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/normalize_model.cpp -o CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/normalize_model.cpp -o CMakeFiles/raw.dir/src/metadata/normalize_model.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.o: ../LibRaw/src/metadata/olympus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/olympus.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/olympus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/olympus.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/olympus.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/olympus.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/olympus.cpp > CMakeFiles/raw.dir/src/metadata/olympus.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/olympus.cpp > CMakeFiles/raw.dir/src/metadata/olympus.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/olympus.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/olympus.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/olympus.cpp -o CMakeFiles/raw.dir/src/metadata/olympus.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/olympus.cpp -o CMakeFiles/raw.dir/src/metadata/olympus.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.o: ../LibRaw/src/metadata/p1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/p1.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/p1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/p1.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/p1.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/p1.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/p1.cpp > CMakeFiles/raw.dir/src/metadata/p1.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/p1.cpp > CMakeFiles/raw.dir/src/metadata/p1.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/p1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/p1.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/p1.cpp -o CMakeFiles/raw.dir/src/metadata/p1.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/p1.cpp -o CMakeFiles/raw.dir/src/metadata/p1.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.o: ../LibRaw/src/metadata/pentax.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/pentax.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/pentax.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/pentax.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/pentax.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/pentax.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/pentax.cpp > CMakeFiles/raw.dir/src/metadata/pentax.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/pentax.cpp > CMakeFiles/raw.dir/src/metadata/pentax.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/pentax.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/pentax.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/pentax.cpp -o CMakeFiles/raw.dir/src/metadata/pentax.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/pentax.cpp -o CMakeFiles/raw.dir/src/metadata/pentax.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.o: ../LibRaw/src/metadata/samsung.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/samsung.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/samsung.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/samsung.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/samsung.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/samsung.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/samsung.cpp > CMakeFiles/raw.dir/src/metadata/samsung.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/samsung.cpp > CMakeFiles/raw.dir/src/metadata/samsung.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/samsung.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/samsung.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/samsung.cpp -o CMakeFiles/raw.dir/src/metadata/samsung.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/samsung.cpp -o CMakeFiles/raw.dir/src/metadata/samsung.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.o: ../LibRaw/src/metadata/sony.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/sony.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/sony.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/sony.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/sony.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/sony.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/sony.cpp > CMakeFiles/raw.dir/src/metadata/sony.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/sony.cpp > CMakeFiles/raw.dir/src/metadata/sony.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/sony.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/sony.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/sony.cpp -o CMakeFiles/raw.dir/src/metadata/sony.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/sony.cpp -o CMakeFiles/raw.dir/src/metadata/sony.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.o: ../LibRaw/src/metadata/tiff.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/tiff.cpp.o -c /home/judit/source/unraw/LibRaw/src/metadata/tiff.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/metadata/tiff.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/tiff.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/metadata/tiff.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/metadata/tiff.cpp > CMakeFiles/raw.dir/src/metadata/tiff.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/tiff.cpp > CMakeFiles/raw.dir/src/metadata/tiff.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/metadata/tiff.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/metadata/tiff.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/metadata/tiff.cpp -o CMakeFiles/raw.dir/src/metadata/tiff.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/tiff.cpp -o CMakeFiles/raw.dir/src/metadata/tiff.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o: ../LibRaw/src/postprocessing/aspect_ratio.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp > CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp > CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp -o CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp -o CMakeFiles/raw.dir/src/postprocessing/aspect_ratio.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o: ../LibRaw/src/postprocessing/dcraw_process.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/dcraw_process.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/dcraw_process.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/dcraw_process.cpp > CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/dcraw_process.cpp > CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/dcraw_process.cpp -o CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/dcraw_process.cpp -o CMakeFiles/raw.dir/src/postprocessing/dcraw_process.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o: ../LibRaw/src/postprocessing/mem_image.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/mem_image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/mem_image.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/mem_image.cpp > CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/mem_image.cpp > CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/mem_image.cpp -o CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/mem_image.cpp -o CMakeFiles/raw.dir/src/postprocessing/mem_image.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o: ../LibRaw/src/postprocessing/postprocessing_aux.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_aux.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o: ../LibRaw/src/postprocessing/postprocessing_utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o: ../LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o -c /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp > CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp -o CMakeFiles/raw.dir/src/postprocessing/postprocessing_utils_dcrdefs.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o: ../LibRaw/src/preprocessing/ext_preprocess.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o -c /home/judit/source/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp > CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp > CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp -o CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp -o CMakeFiles/raw.dir/src/preprocessing/ext_preprocess.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o: ../LibRaw/src/preprocessing/raw2image.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o -c /home/judit/source/unraw/LibRaw/src/preprocessing/raw2image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/raw2image.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/preprocessing/raw2image.cpp > CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/raw2image.cpp > CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/preprocessing/raw2image.cpp -o CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/raw2image.cpp -o CMakeFiles/raw.dir/src/preprocessing/raw2image.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o: ../LibRaw/src/preprocessing/subtract_black.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o -c /home/judit/source/unraw/LibRaw/src/preprocessing/subtract_black.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/subtract_black.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/preprocessing/subtract_black.cpp > CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/subtract_black.cpp > CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/preprocessing/subtract_black.cpp -o CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/subtract_black.cpp -o CMakeFiles/raw.dir/src/preprocessing/subtract_black.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.o: ../LibRaw/src/tables/cameralist.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/cameralist.cpp.o -c /home/judit/source/unraw/LibRaw/src/tables/cameralist.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/cameralist.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/cameralist.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/tables/cameralist.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/tables/cameralist.cpp > CMakeFiles/raw.dir/src/tables/cameralist.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/cameralist.cpp > CMakeFiles/raw.dir/src/tables/cameralist.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/tables/cameralist.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/tables/cameralist.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/tables/cameralist.cpp -o CMakeFiles/raw.dir/src/tables/cameralist.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/cameralist.cpp -o CMakeFiles/raw.dir/src/tables/cameralist.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.o: ../LibRaw/src/tables/colorconst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/colorconst.cpp.o -c /home/judit/source/unraw/LibRaw/src/tables/colorconst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/colorconst.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colorconst.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/tables/colorconst.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/tables/colorconst.cpp > CMakeFiles/raw.dir/src/tables/colorconst.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colorconst.cpp > CMakeFiles/raw.dir/src/tables/colorconst.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colorconst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/tables/colorconst.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/tables/colorconst.cpp -o CMakeFiles/raw.dir/src/tables/colorconst.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colorconst.cpp -o CMakeFiles/raw.dir/src/tables/colorconst.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.o: ../LibRaw/src/tables/colordata.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/colordata.cpp.o -c /home/judit/source/unraw/LibRaw/src/tables/colordata.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/colordata.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colordata.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/tables/colordata.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/tables/colordata.cpp > CMakeFiles/raw.dir/src/tables/colordata.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colordata.cpp > CMakeFiles/raw.dir/src/tables/colordata.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/tables/colordata.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/tables/colordata.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/tables/colordata.cpp -o CMakeFiles/raw.dir/src/tables/colordata.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colordata.cpp -o CMakeFiles/raw.dir/src/tables/colordata.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.o: ../LibRaw/src/tables/wblists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/wblists.cpp.o -c /home/judit/source/unraw/LibRaw/src/tables/wblists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/tables/wblists.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/wblists.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/tables/wblists.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/tables/wblists.cpp > CMakeFiles/raw.dir/src/tables/wblists.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/wblists.cpp > CMakeFiles/raw.dir/src/tables/wblists.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/tables/wblists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/tables/wblists.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/tables/wblists.cpp -o CMakeFiles/raw.dir/src/tables/wblists.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/tables/wblists.cpp -o CMakeFiles/raw.dir/src/tables/wblists.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.o: ../LibRaw/src/utils/curves.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/curves.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/curves.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/curves.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/curves.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/curves.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/curves.cpp > CMakeFiles/raw.dir/src/utils/curves.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/curves.cpp > CMakeFiles/raw.dir/src/utils/curves.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/curves.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/curves.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/curves.cpp -o CMakeFiles/raw.dir/src/utils/curves.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/curves.cpp -o CMakeFiles/raw.dir/src/utils/curves.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o: ../LibRaw/src/utils/decoder_info.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/decoder_info.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/decoder_info.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/decoder_info.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/decoder_info.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/decoder_info.cpp > CMakeFiles/raw.dir/src/utils/decoder_info.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/decoder_info.cpp > CMakeFiles/raw.dir/src/utils/decoder_info.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/decoder_info.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/decoder_info.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/decoder_info.cpp -o CMakeFiles/raw.dir/src/utils/decoder_info.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/decoder_info.cpp -o CMakeFiles/raw.dir/src/utils/decoder_info.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o: ../LibRaw/src/utils/init_close_utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/init_close_utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/init_close_utils.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/init_close_utils.cpp > CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/init_close_utils.cpp > CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/init_close_utils.cpp -o CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/init_close_utils.cpp -o CMakeFiles/raw.dir/src/utils/init_close_utils.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.o: ../LibRaw/src/utils/open.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/open.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/open.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/open.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/open.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/open.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/open.cpp > CMakeFiles/raw.dir/src/utils/open.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/open.cpp > CMakeFiles/raw.dir/src/utils/open.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/open.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/open.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/open.cpp -o CMakeFiles/raw.dir/src/utils/open.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/open.cpp -o CMakeFiles/raw.dir/src/utils/open.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o: ../LibRaw/src/utils/phaseone_processing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/phaseone_processing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/phaseone_processing.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/phaseone_processing.cpp > CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/phaseone_processing.cpp > CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/phaseone_processing.cpp -o CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/phaseone_processing.cpp -o CMakeFiles/raw.dir/src/utils/phaseone_processing.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.o: ../LibRaw/src/utils/read_utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/read_utils.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/read_utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/read_utils.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/read_utils.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/read_utils.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/read_utils.cpp > CMakeFiles/raw.dir/src/utils/read_utils.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/read_utils.cpp > CMakeFiles/raw.dir/src/utils/read_utils.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/read_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/read_utils.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/read_utils.cpp -o CMakeFiles/raw.dir/src/utils/read_utils.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/read_utils.cpp -o CMakeFiles/raw.dir/src/utils/read_utils.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o: ../LibRaw/src/utils/thumb_utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/thumb_utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/thumb_utils.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/thumb_utils.cpp > CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/thumb_utils.cpp > CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/thumb_utils.cpp -o CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/thumb_utils.cpp -o CMakeFiles/raw.dir/src/utils/thumb_utils.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o: ../LibRaw/src/utils/utils_dcraw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/utils_dcraw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_dcraw.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/utils_dcraw.cpp > CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_dcraw.cpp > CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/utils_dcraw.cpp -o CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_dcraw.cpp -o CMakeFiles/raw.dir/src/utils/utils_dcraw.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o: ../LibRaw/src/utils/utils_libraw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o -c /home/judit/source/unraw/LibRaw/src/utils/utils_libraw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_libraw.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/utils/utils_libraw.cpp > CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_libraw.cpp > CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/utils/utils_libraw.cpp -o CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_libraw.cpp -o CMakeFiles/raw.dir/src/utils/utils_libraw.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.o: ../LibRaw/src/write/apply_profile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/apply_profile.cpp.o -c /home/judit/source/unraw/LibRaw/src/write/apply_profile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/apply_profile.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/write/apply_profile.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/write/apply_profile.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/write/apply_profile.cpp > CMakeFiles/raw.dir/src/write/apply_profile.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/write/apply_profile.cpp > CMakeFiles/raw.dir/src/write/apply_profile.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/write/apply_profile.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/write/apply_profile.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/write/apply_profile.cpp -o CMakeFiles/raw.dir/src/write/apply_profile.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/write/apply_profile.cpp -o CMakeFiles/raw.dir/src/write/apply_profile.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.o: ../LibRaw/src/write/file_write.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/file_write.cpp.o -c /home/judit/source/unraw/LibRaw/src/write/file_write.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/file_write.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/write/file_write.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/write/file_write.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/write/file_write.cpp > CMakeFiles/raw.dir/src/write/file_write.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/write/file_write.cpp > CMakeFiles/raw.dir/src/write/file_write.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/write/file_write.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/write/file_write.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/write/file_write.cpp -o CMakeFiles/raw.dir/src/write/file_write.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/write/file_write.cpp -o CMakeFiles/raw.dir/src/write/file_write.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o: ../LibRaw/src/write/tiff_writer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o -c /home/judit/source/unraw/LibRaw/src/write/tiff_writer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/write/tiff_writer.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/write/tiff_writer.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/write/tiff_writer.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/write/tiff_writer.cpp > CMakeFiles/raw.dir/src/write/tiff_writer.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/write/tiff_writer.cpp > CMakeFiles/raw.dir/src/write/tiff_writer.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/write/tiff_writer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/write/tiff_writer.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/write/tiff_writer.cpp -o CMakeFiles/raw.dir/src/write/tiff_writer.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/write/tiff_writer.cpp -o CMakeFiles/raw.dir/src/write/tiff_writer.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o: ../LibRaw/src/x3f/x3f_parse_process.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o -c /home/judit/source/unraw/LibRaw/src/x3f/x3f_parse_process.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_parse_process.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/x3f/x3f_parse_process.cpp > CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_parse_process.cpp > CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/x3f/x3f_parse_process.cpp -o CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_parse_process.cpp -o CMakeFiles/raw.dir/src/x3f/x3f_parse_process.cpp.s
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o: LibRaw/CMakeFiles/raw.dir/flags.make
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o: ../LibRaw/src/x3f/x3f_utils_patched.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o -c /home/judit/source/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.o -c /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.i"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/source/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp > CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.i
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp > CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.i
 
 LibRaw/CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.s"
-	cd /home/judit/source/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/source/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp -o CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.s
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp -o CMakeFiles/raw.dir/src/x3f/x3f_utils_patched.cpp.s
 
 # Object files for target raw
 raw_OBJECTS = \
@@ -1196,9 +1196,9 @@ LibRaw/libraw.so.23.0.0: /usr/lib/x86_64-linux-gnu/libjpeg.so
 LibRaw/libraw.so.23.0.0: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
 LibRaw/libraw.so.23.0.0: /usr/lib/x86_64-linux-gnu/libpthread.so
 LibRaw/libraw.so.23.0.0: LibRaw/CMakeFiles/raw.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/judit/source/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Linking CXX shared library libraw.so"
-	cd /home/judit/source/unraw/build/LibRaw && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/raw.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/judit/source/unraw/build/LibRaw && $(CMAKE_COMMAND) -E cmake_symlink_library libraw.so.23.0.0 libraw.so.23 libraw.so
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/judit/grupoIC/P3/unraw/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Linking CXX shared library libraw.so"
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/raw.dir/link.txt --verbose=$(VERBOSE)
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && $(CMAKE_COMMAND) -E cmake_symlink_library libraw.so.23.0.0 libraw.so.23 libraw.so
 
 LibRaw/libraw.so.23: LibRaw/libraw.so.23.0.0
 	@$(CMAKE_COMMAND) -E touch_nocreate LibRaw/libraw.so.23
@@ -1212,10 +1212,10 @@ LibRaw/CMakeFiles/raw.dir/build: LibRaw/libraw.so
 .PHONY : LibRaw/CMakeFiles/raw.dir/build
 
 LibRaw/CMakeFiles/raw.dir/clean:
-	cd /home/judit/source/unraw/build/LibRaw && $(CMAKE_COMMAND) -P CMakeFiles/raw.dir/cmake_clean.cmake
+	cd /home/judit/grupoIC/P3/unraw/build/LibRaw && $(CMAKE_COMMAND) -P CMakeFiles/raw.dir/cmake_clean.cmake
 .PHONY : LibRaw/CMakeFiles/raw.dir/clean
 
 LibRaw/CMakeFiles/raw.dir/depend:
-	cd /home/judit/source/unraw/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/judit/source/unraw /home/judit/source/unraw/LibRaw /home/judit/source/unraw/build /home/judit/source/unraw/build/LibRaw /home/judit/source/unraw/build/LibRaw/CMakeFiles/raw.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/judit/grupoIC/P3/unraw/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/judit/grupoIC/P3/unraw /home/judit/grupoIC/P3/unraw/LibRaw /home/judit/grupoIC/P3/unraw/build /home/judit/grupoIC/P3/unraw/build/LibRaw /home/judit/grupoIC/P3/unraw/build/LibRaw/CMakeFiles/raw.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : LibRaw/CMakeFiles/raw.dir/depend
 

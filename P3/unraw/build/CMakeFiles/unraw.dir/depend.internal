@@ -10,7 +10,7 @@ CMakeFiles/unraw.dir/main.cc.o
  ../LibRaw/libraw/libraw_internal.h
  ../LibRaw/libraw/libraw_types.h
  ../LibRaw/libraw/libraw_version.h
- /home/judit/source/unraw/main.cc
+ /home/judit/grupoIC/P3/unraw/main.cc
  /usr/include/opencv4/opencv2/calib3d.hpp
  /usr/include/opencv4/opencv2/core.hpp
  /usr/include/opencv4/opencv2/core/affine.hpp

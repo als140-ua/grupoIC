@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/judit/source/unraw/main.cc" "/home/judit/source/unraw/build/CMakeFiles/unraw.dir/main.cc.o"
+  "/home/judit/grupoIC/P3/unraw/main.cc" "/home/judit/grupoIC/P3/unraw/build/CMakeFiles/unraw.dir/main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,7 +16,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/judit/source/unraw/build/LibRaw/CMakeFiles/raw.dir/DependInfo.cmake"
+  "/home/judit/grupoIC/P3/unraw/build/LibRaw/CMakeFiles/raw.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

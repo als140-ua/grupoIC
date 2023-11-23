@@ -6,5 +6,5 @@ CXX_FLAGS =  -fopenmp   -fopenmp -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/judit/source/unraw/LibRaw -isystem /usr/include/opencv4 
+CXX_INCLUDES = -I/home/judit/grupoIC/P3/unraw/LibRaw -isystem /usr/include/opencv4 
 

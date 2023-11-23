@@ -129,7 +129,7 @@ void denoise(cv::Mat &in, cv::Mat &out, int windowSize)
 	cv::split(ycrcb, channels);
 
     // remove noise from chrominance channels
-    #pragma omp parallel for
+    //#pragma omp parallel for
         for(int i=1 ; i<=2;i++){
             cv::medianBlur(channels[i], channels[i], windowSize);
 	        //cv::medianBlur(channels[1], channels[1], windowSize);
@@ -331,6 +331,8 @@ void gammaCorrection(cv::Mat& in, cv::Mat& out, float a, float b, float gamma)
     #pragma omp parallel for collapse(2) schedule(static)
         for(int i = 0; i < in.rows; ++i)
         {
+            //p = in.ptr<unsigned short>(i);
+            //tp = tmp.ptr<unsigned short>(i);
             for (int j = 0; j < in.cols; ++j)
             {
                 unsigned short* p = in.ptr<unsigned short>(i);
@@ -390,14 +392,14 @@ void screenMerge(cv::Mat &in1, cv::Mat &in2, cv::Mat &out)
     in1.convertTo(inFloat1, CV_32F, 1.0/65535);
     in2.convertTo(inFloat2, CV_32F, 1.0/65535);
     cv::Mat tmp = cv::Mat::zeros(inFloat1.size(), inFloat1.type());
-    float* pIn1, *pIn2, *pTmp;
+    //float* pIn1, *pIn2, *pTmp;
     // apply the screen mode merge
     #pragma omp parallel for
         for(int i = 0; i < in1.rows; ++i)
         {
-            pIn1 = inFloat1.ptr<float>(i);
-            pIn2 = inFloat2.ptr<float>(i);
-            pTmp = tmp.ptr<float>(i);
+            float* pIn1 = inFloat1.ptr<float>(i);
+            float* pIn2 = inFloat2.ptr<float>(i);
+            float* pTmp = tmp.ptr<float>(i);
             for (int j = 0; j < in1.cols; ++j)
             {
                 for(int c = 0; c < 3; c++)

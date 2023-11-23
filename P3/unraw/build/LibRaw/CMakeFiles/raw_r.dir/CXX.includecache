@@ -150,39 +150,39 @@ libraw_version.h
 
 ../LibRaw/libraw/libraw_version.h
 
-/home/judit/source/unraw/LibRaw/RawSpeed/rawspeed_xmldata.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/RawSpeed/rawspeed_xmldata.cpp
 
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 math.h
 -
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/internal/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw/libraw.h
 libraw/libraw_types.h
-/home/judit/source/unraw/LibRaw/internal/libraw/libraw_types.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw/libraw_types.h
 internal/defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/defines.h
 internal/var_defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/var_defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/var_defines.h
 
-/home/judit/source/unraw/LibRaw/internal/dcraw_fileio_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_fileio_defs.h
 math.h
 -
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/internal/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw/libraw.h
 internal/defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/defines.h
 internal/var_defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/var_defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/var_defines.h
 
-/home/judit/source/unraw/LibRaw/internal/dmp_include.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dmp_include.h
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/internal/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw/libraw.h
 internal/defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/defines.h
 
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 math.h
 -
 errno.h
@@ -198,9 +198,9 @@ sys/types.h
 sys/stat.h
 -
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/internal/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw/libraw.h
 internal/defines.h
-/home/judit/source/unraw/LibRaw/internal/internal/defines.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/internal/defines.h
 zlib.h
 -
 netinet/in.h
@@ -222,15 +222,15 @@ RawSpeed/CameraMetaData.h
 RawSpeed/ColorFilterArray.h
 -
 dng_host.h
-/home/judit/source/unraw/LibRaw/internal/dng_host.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dng_host.h
 dng_negative.h
-/home/judit/source/unraw/LibRaw/internal/dng_negative.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dng_negative.h
 dng_simple_image.h
-/home/judit/source/unraw/LibRaw/internal/dng_simple_image.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dng_simple_image.h
 dng_info.h
-/home/judit/source/unraw/LibRaw/internal/dng_info.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dng_info.h
 
-/home/judit/source/unraw/LibRaw/internal/x3f_tools.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/x3f_tools.h
 stdio.h
 -
 string.h
@@ -242,9 +242,9 @@ math.h
 stdio.h
 -
 ../libraw/libraw_datastream.h
-/home/judit/source/unraw/LibRaw/libraw/libraw_datastream.h
+/home/judit/grupoIC/P3/unraw/LibRaw/libraw/libraw_datastream.h
 
-/home/judit/source/unraw/LibRaw/libraw/libraw_datastream.h
+/home/judit/grupoIC/P3/unraw/LibRaw/libraw/libraw_datastream.h
 stdio.h
 -
 sys/types.h
@@ -256,9 +256,9 @@ string.h
 winsock2.h
 -
 libraw_const.h
-/home/judit/source/unraw/LibRaw/libraw/libraw_const.h
+/home/judit/grupoIC/P3/unraw/LibRaw/libraw/libraw_const.h
 libraw_types.h
-/home/judit/source/unraw/LibRaw/libraw/libraw_types.h
+/home/judit/grupoIC/P3/unraw/LibRaw/libraw/libraw_types.h
 fstream
 -
 memory
@@ -266,131 +266,131 @@ memory
 vector
 -
 dng_stream.h
-/home/judit/source/unraw/LibRaw/libraw/dng_stream.h
+/home/judit/grupoIC/P3/unraw/LibRaw/libraw/dng_stream.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/canon_600.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/canon_600.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/crx.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/crx.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/decoders_dcraw.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_dcraw.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 vector
 -
 algorithm
 -
 
-/home/judit/source/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/decoders_libraw_dcrdefs.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/dng.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/dng.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/fp_dng.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fp_dng.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/fuji_compressed.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/fuji_compressed.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/generic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/generic.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/kodak_decoders.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/kodak_decoders.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/load_mfbacks.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/load_mfbacks.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/smal.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/smal.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/decoders/unpack.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack.cpp
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 rawspeed3_capi.h
-/home/judit/source/unraw/LibRaw/src/decoders/rawspeed3_capi.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/rawspeed3_capi.h
 array
 -
 
-/home/judit/source/unraw/LibRaw/src/decoders/unpack_thumb.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/decoders/unpack_thumb.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/aahd_demosaic.cpp
 ../../internal/dmp_include.h
-/home/judit/source/unraw/LibRaw/internal/dmp_include.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dmp_include.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/ahd_demosaic.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dcb_demosaic.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/dht_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/dht_demosaic.cpp
 ../../internal/dmp_include.h
-/home/judit/source/unraw/LibRaw/internal/dmp_include.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dmp_include.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/misc_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/misc_demosaic.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/demosaic/xtrans_demosaic.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/integration/dngsdk_glue.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/integration/dngsdk_glue.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 dng_read_image.h
-/home/judit/source/unraw/LibRaw/src/integration/dng_read_image.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/integration/dng_read_image.h
 gpr_read_image.h
-/home/judit/source/unraw/LibRaw/src/integration/gpr_read_image.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/integration/gpr_read_image.h
 
-/home/judit/source/unraw/LibRaw/src/integration/rawspeed_glue.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/integration/rawspeed_glue.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/libraw_c_api.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_c_api.cpp
 math.h
 -
 errno.h
 -
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/src/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw/libraw.h
 new
 -
 
-/home/judit/source/unraw/LibRaw/src/libraw_datastream.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw_datastream.cpp
 stdexcept
 -
 libraw/libraw.h
-/home/judit/source/unraw/LibRaw/src/libraw/libraw.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw/libraw.h
 libraw/libraw_types.h
-/home/judit/source/unraw/LibRaw/src/libraw/libraw_types.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw/libraw_types.h
 libraw/libraw_datastream.h
-/home/judit/source/unraw/LibRaw/src/libraw/libraw_datastream.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/libraw/libraw_datastream.h
 sys/stat.h
 -
 jasper/jasper.h
@@ -400,237 +400,237 @@ jpeglib.h
 jerror.h
 -
 
-/home/judit/source/unraw/LibRaw/src/metadata/adobepano.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/adobepano.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/canon.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/canon.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/ciff.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/ciff.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/cr3_parser.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/cr3_parser.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/epson.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/epson.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/exif_gps.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/exif_gps.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/fuji.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/fuji.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/hasselblad_model.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/hasselblad_model.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/identify.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/identify_tools.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/identify_tools.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/kodak.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/kodak.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/leica.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/leica.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/makernotes.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/makernotes.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/mediumformat.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/mediumformat.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/minolta.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/minolta.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/misc_parsers.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/misc_parsers.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/nikon.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/nikon.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/normalize_model.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/normalize_model.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/olympus.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/olympus.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/p1.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/p1.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/pentax.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/pentax.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/samsung.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/samsung.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/sony.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/sony.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/metadata/tiff.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/metadata/tiff.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/aspect_ratio.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/dcraw_process.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/dcraw_process.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/mem_image.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/mem_image.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_aux.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/postprocessing/postprocessing_utils_dcrdefs.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/ext_preprocess.cpp
 ../../internal/dcraw_fileio_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_fileio_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_fileio_defs.h
 
-/home/judit/source/unraw/LibRaw/src/preprocessing/raw2image.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/raw2image.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/preprocessing/subtract_black.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/preprocessing/subtract_black.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/tables/cameralist.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/tables/cameralist.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 ../../RawSpeed/rawspeed_xmldata.cpp
-/home/judit/source/unraw/LibRaw/RawSpeed/rawspeed_xmldata.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/RawSpeed/rawspeed_xmldata.cpp
 
-/home/judit/source/unraw/LibRaw/src/tables/colorconst.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colorconst.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/tables/colordata.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/tables/colordata.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/tables/wblists.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/tables/wblists.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/curves.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/curves.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/decoder_info.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/decoder_info.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/init_close_utils.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/init_close_utils.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 rawspeed3_capi.h
-/home/judit/source/unraw/LibRaw/src/utils/rawspeed3_capi.h
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/rawspeed3_capi.h
 
-/home/judit/source/unraw/LibRaw/src/utils/open.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/open.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 ../../internal/libraw_cameraids.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cameraids.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cameraids.h
 
-/home/judit/source/unraw/LibRaw/src/utils/phaseone_processing.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/phaseone_processing.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/read_utils.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/read_utils.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/thumb_utils.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/thumb_utils.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/utils_dcraw.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_dcraw.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 
-/home/judit/source/unraw/LibRaw/src/utils/utils_libraw.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/utils/utils_libraw.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/write/apply_profile.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/write/apply_profile.cpp
 ../../internal/dcraw_fileio_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_fileio_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_fileio_defs.h
 
-/home/judit/source/unraw/LibRaw/src/write/file_write.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/write/file_write.cpp
 ../../internal/dcraw_defs.h
-/home/judit/source/unraw/LibRaw/internal/dcraw_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/dcraw_defs.h
 vector
 -
 
-/home/judit/source/unraw/LibRaw/src/write/tiff_writer.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/write/tiff_writer.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 
-/home/judit/source/unraw/LibRaw/src/x3f/x3f_parse_process.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_parse_process.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 ../../internal/x3f_tools.h
-/home/judit/source/unraw/LibRaw/internal/x3f_tools.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/x3f_tools.h
 
-/home/judit/source/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp
+/home/judit/grupoIC/P3/unraw/LibRaw/src/x3f/x3f_utils_patched.cpp
 ../../internal/libraw_cxx_defs.h
-/home/judit/source/unraw/LibRaw/internal/libraw_cxx_defs.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/libraw_cxx_defs.h
 ../../internal/x3f_tools.h
-/home/judit/source/unraw/LibRaw/internal/x3f_tools.h
+/home/judit/grupoIC/P3/unraw/LibRaw/internal/x3f_tools.h
 
