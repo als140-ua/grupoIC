@@ -38,3 +38,26 @@ Día 21/10/23:	-Judit: Creación del makefile de la práctica y realización del
 Día 22/10/23:	-Aitor: Revisión y corrección de las tareas realizadas
 		-Judit: Arreglos rápidos en el programa para poder entregarlo vía UACloud (debido a l tamaño maxímo de archivos permitido)
 		-Antonio: Escritura y actualización de la bitacora
+
+Día 25/10/23: 	Comienzo de la practica 3
+		-Aitor: Realiza la tarea 0 en el documento de la practica 2
+
+Día 31/10/23: 	-Aitor: Comienza con la tarea individual
+
+Día 6/11/23: 	-Antonio: Comienza con la tarea individual
+
+Día 7/11/23: 	-Aitor: finaliza la tarea individual
+		-Antonio: Continua con la tarea individual
+		-Judit: Comienza con la tarea individual
+
+Día 11/11/23:	-Aitor: Realiza la tarea 2.1 y comienza la tarea 2.2
+		-Judit: Termina con la tarea individual, crea un documento para la memoria de la practica 2, le añade la tarea 0 y crea una portada y un indice
+		-Antonio: Termina la tarea individual
+
+Día 19/11/23:	-Judit: Añade la tarea 2.1 y 2.2 realizadas por Aitor en la memoria de la practica 2
+
+Día 21/11/23: 	-Aitor: Translada la parte individual a un documento al saber que se entregan por separado
+
+Día 23/11/23: 	Reunión de 17 a 21 para terminar la práctica
+		-Judit: Paraleliza el código 
+		-Antonio: Ayuda a paralelizar el código al no irle vscode, ni la maquina virtual,
