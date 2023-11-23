@@ -59,6 +59,6 @@ Día 19/11/23:	-Judit: Añade la tarea 2.1 y 2.2 realizadas por Aitor en la memo
 Día 21/11/23: 	-Aitor: Translada la parte individual a un documento al saber que se entregan por separado
 
 Día 23/11/23: 	Reunión de 17 a 21 para terminar la práctica
-		-Judit: Paraleliza el código 
+		-Judit: Paraleliza el código, he actualizado la bitacora. 
 		-Antonio: Ayuda a paralelizar el código al no irle vscode, ni la maquina virtual. También a hecho la tarea 2.3
 		-Aitor: ha terminado la tarea 2.2 añadiendo los diagramas restantes
