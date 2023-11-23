@@ -60,5 +60,5 @@ Día 21/11/23: 	-Aitor: Translada la parte individual a un documento al saber qu
 
 Día 23/11/23: 	Reunión de 17 a 21 para terminar la práctica
 		-Judit: Paraleliza el código, he actualizado la bitacora. 
-		-Antonio: Ayuda a paralelizar el código al no irle vscode, ni la maquina virtual. También a hecho la tarea 2.3
+		-Antonio: Ayuda a paralelizar el código al no irle vscode, ni la maquina virtual. También ha hecho la tarea 2.3
 		-Aitor: ha terminado la tarea 2.2 añadiendo los diagramas restantes
