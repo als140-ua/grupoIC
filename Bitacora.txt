@@ -39,6 +39,8 @@ Día 22/10/23:	-Aitor: Revisión y corrección de las tareas realizadas
 		-Judit: Arreglos rápidos en el programa para poder entregarlo vía UACloud (debido a l tamaño maxímo de archivos permitido)
 		-Antonio: Escritura y actualización de la bitacora
 
+------- Inicio práctica 3 -------
+
 Día 25/10/23: 	Comienzo de la practica 3
 		-Aitor: Realiza la tarea 0 en el documento de la practica 2
 
