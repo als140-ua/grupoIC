@@ -1,0 +1,2 @@
+   * LCMS2 - A small-footprint color management engine
+   * libjpeg - JPEG image format support
