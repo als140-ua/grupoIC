@@ -64,3 +64,8 @@ Día 23/11/23: 	Reunión de 17 a 21 para terminar la práctica
 		-Judit: Paraleliza el código, he actualizado la bitacora. 
 		-Antonio: Ayuda a paralelizar el código al no irle vscode, ni la maquina virtual. También ha hecho la tarea 2.3
 		-Aitor: ha terminado la tarea 2.2 añadiendo los diagramas restantes
+
+Día 28/11/23: 	Lectura y planteamiento de la tarea proporcionada.
+
+Día 5/12/23: 	Hacer el código después de conseguir que el ejemplo proporcionado funcionara.
+Día 12/12/23: 	Enseñar el código al profesor y enseñar la practica 3.
