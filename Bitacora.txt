@@ -73,7 +73,7 @@ Día 5/12/23: 	Hacer el código después de conseguir que el ejemplo proporciona
 Día 12/12/23: 	Enseñar el código al profesor y enseñar la practica 3.
 Día 17/12/23: 	Reunión para realizar la paralelización del código de la practica 4
 Día 19/12/23:	Pruebas y edición del código
-Día 28/12/23:	Reunión de 16 a para terminar la práctica
+Día 28/12/23:	Reunión de 16 a 19 para terminar la práctica
 		- Antonio: Corrección de código, realización de los apartados "comparativas de 
 		tiempo" y "cálculo de la ganancia" en la memoria
 		- Aitor: Realización de los apartados "conclusión" y "referencias" en la memoria
